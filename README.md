@@ -141,7 +141,7 @@ echo s:_.chain(range(1,100))
 "   109296
 ```
 
-### :zap: Extend to worke with other library :zap:
+### :zap: Extend to work with other library :zap:
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim)
 
 You can extend underscore.vim with `_.mixin()` :sparkles:
@@ -188,7 +188,7 @@ If you want to see more examples, please see [/example directory](./example).
 :link: Links :link:
 -------------------
 The api and documentation are heavily inspired by [Underscore.js],
-[lodash] and [Underscore.lua]. It's implementation are heavily
+[lodash] and [Underscore.lua]. Its implementation is heavily
 inspired by and taken from [vital.vim].
 
 [Underscore.js]: http://underscorejs.org/
